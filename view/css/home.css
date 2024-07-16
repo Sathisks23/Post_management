@@ -1,0 +1,30 @@
+
+a{
+    text-decoration: none;
+}
+navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.nav>*{
+    padding-left: 15px;
+
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.pagenation{
+    width: 20%;
+    margin:0 auto;
+}
+
+.wrapper{
+    width: 60%;
+}
+.imginput>*{
+    width: 400px;
+    height: 400px;
+}
